@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<ArrayOfMember xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Member Id="14021803-a132-484b-a45a-9f5278ca8766">
+    <name>fr</name>
+    <personalNumber>3</personalNumber>
+  </Member>
+  <Member Id="eaeb32da-2329-423f-bab2-49d76fb967d2">
+    <name>fredrik</name>
+    <personalNumber>2</personalNumber>
+  </Member>
+  <Member Id="9b9e7eed-bdd6-427d-bdf4-273dc205266e">
+    <name>Fredrik</name>
+    <personalNumber>2</personalNumber>
+  </Member>
+  <Member Id="5f81a3a6-8d30-4b20-99ff-4d1c380c8fd4">
+    <name>fredrik</name>
+    <personalNumber>1</personalNumber>
+  </Member>
+  <Member Id="9c82dca7-6717-45ca-9eb9-11f569603ec8">
+    <name>d</name>
+    <personalNumber>3</personalNumber>
+  </Member>
+  <Member Id="b6b3f689-cc9e-453e-bee1-6a322174c15a">
+    <name>fr</name>
+    <personalNumber>3</personalNumber>
+  </Member>
+  <Member Id="9a94955a-7a38-4d27-9334-1eb491a5d348">
+    <name>fred</name>
+    <personalNumber>1</personalNumber>
+  </Member>
+  <Member Id="0d466027-81ce-43dd-a3a0-d49a108ba760">
+    <name>Fredrik</name>
+    <personalNumber>23</personalNumber>
+  </Member>
+  <Member Id="647a2d13-cd37-49a8-b3c0-a46fee802607">
+    <name>fredr</name>
+    <personalNumber>12</personalNumber>
+  </Member>
+  <Member Id="b9921dd3-b18d-41c0-af26-dfc3703fa01c">
+    <name>rand</name>
+    <personalNumber>23</personalNumber>
+  </Member>
+  <Member Id="44591d19-9e51-4005-acf5-1ab26ad30d5d">
+    <name>rand2</name>
+    <personalNumber>3</personalNumber>
+  </Member>
+</ArrayOfMember>

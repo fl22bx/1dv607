@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{5DA1E9A4-E3C3-469A-BCBA-C952D585D9AD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="models/XmlHandler.cs">
+    <Files>
+      <File FileName="controller/Controller.cs" Line="10" Column="28" />
+      <File FileName="view/UpdateView.cs" Line="19" Column="39" />
+      <File FileName="view/deleteView.cs" Line="8" Column="44" />
+      <File FileName="controller/addViewController.cs" Line="13" Column="1" />
+      <File FileName="view/AddView.cs" Line="9" Column="41" />
+      <File FileName="view/ViewMembers.cs" Line="117" Column="1" />
+      <File FileName="controller/displayViewCotroller.cs" Line="15" Column="1" />
+      <File FileName="models/XmlHandler.cs" Line="27" Column="10" />
+      <File FileName="controller/uppdateViewController.cs" Line="46" Column="10" />
+      <File FileName="controller/deleteViewController.cs" Line="34" Column="1" />
+      <File FileName="view/commandsEnum.cs" Line="8" Column="37" />
+      <File FileName="models/Boat.cs" Line="7" Column="17" />
+      <File FileName="models/member.cs" Line="11" Column="24" />
+      <File FileName="Program.cs" Line="10" Column="58" />
+      <File FileName="view/StartUpView.cs" Line="8" Column="33" />
+      <File FileName="view/MainView.cs" Line="223" Column="37" />
+      <File FileName="register.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.1dv607-workshop2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

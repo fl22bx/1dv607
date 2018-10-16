@@ -1,0 +1,11 @@
+/Users/Stenmark/Projects/1dv607-workshop2/obj/Debug/netcoreapp2.0/1dv607-workshop2.csprojAssemblyReference.cache
+/Users/Stenmark/Projects/1dv607-workshop2/obj/Debug/netcoreapp2.0/1dv607-workshop2.csproj.CoreCompileInputs.cache
+/Users/Stenmark/Projects/1dv607-workshop2/obj/Debug/netcoreapp2.0/1dv607-workshop2.AssemblyInfoInputs.cache
+/Users/Stenmark/Projects/1dv607-workshop2/obj/Debug/netcoreapp2.0/1dv607-workshop2.AssemblyInfo.cs
+/Users/Stenmark/Projects/1dv607-workshop2/bin/Debug/netcoreapp2.0/1dv607-workshop2.deps.json
+/Users/Stenmark/Projects/1dv607-workshop2/bin/Debug/netcoreapp2.0/1dv607-workshop2.runtimeconfig.json
+/Users/Stenmark/Projects/1dv607-workshop2/bin/Debug/netcoreapp2.0/1dv607-workshop2.runtimeconfig.dev.json
+/Users/Stenmark/Projects/1dv607-workshop2/bin/Debug/netcoreapp2.0/1dv607-workshop2.dll
+/Users/Stenmark/Projects/1dv607-workshop2/bin/Debug/netcoreapp2.0/1dv607-workshop2.pdb
+/Users/Stenmark/Projects/1dv607-workshop2/obj/Debug/netcoreapp2.0/1dv607-workshop2.dll
+/Users/Stenmark/Projects/1dv607-workshop2/obj/Debug/netcoreapp2.0/1dv607-workshop2.pdb

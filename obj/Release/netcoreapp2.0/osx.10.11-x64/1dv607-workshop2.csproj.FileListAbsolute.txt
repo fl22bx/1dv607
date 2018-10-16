@@ -1,0 +1,14 @@
+/Users/Stenmark/Projects/1dv607-workshop2/bin/Release/netcoreapp2.0/osx.10.11-x64/libhostpolicy.dylib
+/Users/Stenmark/Projects/1dv607-workshop2/bin/Release/netcoreapp2.0/osx.10.11-x64/libhostfxr.dylib
+/Users/Stenmark/Projects/1dv607-workshop2/bin/Release/netcoreapp2.0/osx.10.11-x64/1dv607-workshop2
+/Users/Stenmark/Projects/1dv607-workshop2/bin/Release/netcoreapp2.0/osx.10.11-x64/1dv607-workshop2.deps.json
+/Users/Stenmark/Projects/1dv607-workshop2/bin/Release/netcoreapp2.0/osx.10.11-x64/1dv607-workshop2.runtimeconfig.json
+/Users/Stenmark/Projects/1dv607-workshop2/bin/Release/netcoreapp2.0/osx.10.11-x64/1dv607-workshop2.runtimeconfig.dev.json
+/Users/Stenmark/Projects/1dv607-workshop2/bin/Release/netcoreapp2.0/osx.10.11-x64/1dv607-workshop2.dll
+/Users/Stenmark/Projects/1dv607-workshop2/bin/Release/netcoreapp2.0/osx.10.11-x64/1dv607-workshop2.pdb
+/Users/Stenmark/Projects/1dv607-workshop2/obj/Release/netcoreapp2.0/osx.10.11-x64/1dv607-workshop2.csprojAssemblyReference.cache
+/Users/Stenmark/Projects/1dv607-workshop2/obj/Release/netcoreapp2.0/osx.10.11-x64/1dv607-workshop2.csproj.CoreCompileInputs.cache
+/Users/Stenmark/Projects/1dv607-workshop2/obj/Release/netcoreapp2.0/osx.10.11-x64/1dv607-workshop2.AssemblyInfoInputs.cache
+/Users/Stenmark/Projects/1dv607-workshop2/obj/Release/netcoreapp2.0/osx.10.11-x64/1dv607-workshop2.AssemblyInfo.cs
+/Users/Stenmark/Projects/1dv607-workshop2/obj/Release/netcoreapp2.0/osx.10.11-x64/1dv607-workshop2.dll
+/Users/Stenmark/Projects/1dv607-workshop2/obj/Release/netcoreapp2.0/osx.10.11-x64/1dv607-workshop2.pdb

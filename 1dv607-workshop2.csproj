@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+<RuntimeIdentifiers>win10-x64;osx.10.11-x64;ubuntu.16.10-x64</RuntimeIdentifiers>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="models\" />
+    <Folder Include="view\" />
+    <Folder Include="controller\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="EmptyXmlFile.xml" />
+    <None Remove="register.xml" />
+    <None Remove="register.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="models\EmptyClass.cs" />
+    <Compile Remove="models\XmlReader.cs" />
+    <Compile Remove="models\XmlWritter.cs" />
+    <Compile Remove="view\EmptyClass.cs" />
+    <Compile Remove="view\commands.cs" />
+    <Compile Remove="controller\addViewController.cs" />
+    <Compile Remove="controller\deleteViewController.cs" />
+    <Compile Remove="controller\displayViewCotroller.cs" />
+    <Compile Remove="controller\uppdateViewController.cs" />
+  </ItemGroup>
+</Project>
